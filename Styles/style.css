@@ -1,0 +1,39 @@
+.bg-header{
+    background-color: #264653;
+}
+.bg-btn{
+    background-color: #e2431b;
+}
+.bg-btn:hover{
+    background-color: #e2431b;
+}
+.font-color{
+    color: #E76F51;
+}
+.grayscale{
+    -webkit-filter: grayscale(1);
+    filter:grayscale(1) ;
+}
+.user{
+    width: 149px;
+    height: 149px;
+}
+hr{
+    width: 59px;
+  border: 1px solid #E76F51;
+  background-color: #E76F51;
+}
+.btn-border{
+    border: 1px solid #E76F51;
+}
+.btn-border:hover{
+    border: 1px solid #E76F51;
+    background-color: #e2431b;
+    color: white;
+}
+.center {
+    margin: auto;
+    padding: 10px;
+  }
+
+  
